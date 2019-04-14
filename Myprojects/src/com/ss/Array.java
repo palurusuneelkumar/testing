@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Array {
 
 	public static void main(String[] args) {
-		Scanner scn=new Scanner(System.in);
+		/**Scanner scn=new Scanner(System.in);
 			int sum=0;
 		for(int i=0;i<=36;i++)
 		{
@@ -13,7 +13,7 @@ public class Array {
 				sum+=i;
 		}
 		System.out.println(sum);
-
+		**/
 	}
 
 }
